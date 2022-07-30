@@ -31,4 +31,4 @@ NYC bike-sharing data was analyzed to create proposal for a similar program to b
 
 
 #### Link
-[link to dashboard](https://public.tableau.com/views/CitiBikeChallenge_16587094591300/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[City Bike Dashboard](https://public.tableau.com/views/CitiBikeChallenge_16587094591300/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
